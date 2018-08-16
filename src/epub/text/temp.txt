@@ -1,0 +1,13 @@
+
+File: /Users/david/Dropbox/Standard Ebooks/Sibyl/benjamin-disraeli_sibyl/src/epub/text/colophon.xhtml: 
+class="name"
+class="name"
+class="release-date"
+class="time eoc"
+class="raw-url"
+class="raw-url"
+
+
+File: /Users/david/Dropbox/Standard Ebooks/Sibyl/benjamin-disraeli_sibyl/src/epub/text/imprint.xhtml: 
+class="raw-url"
+
