@@ -46,38 +46,45 @@
 		<meta property="meta-auth" refines="#subject-6">https://www.gutenberg.org/ebooks/3760</meta>
 		<meta property="meta-auth" refines="#subject-7">https://www.gutenberg.org/ebooks/3760</meta>
 		<meta property="meta-auth" refines="#subject-8">https://www.gutenberg.org/ebooks/3760</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="se:subject">Fiction</meta>
+		<dc:description id="description">A young nobleman is moved by the condition of the poor in England, and falls in love with a labourer’s daughter.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
-		<meta id="long-description" property="se:long-description" refines="#description"> LONGDESCRIPTION </meta>
+		<meta id="long-description" property="se:long-description" refines="#description">
+			&lt;p&gt;Long description here.&lt;/p&gt;
+			&lt;p&gt;Long description here.&lt;/p&gt;
+			&lt;p&gt;Long description here.&lt;/p&gt;
+			&lt;p&gt;Long description here.&lt;/p&gt;
+		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/3760</dc:source>
-		<meta property="se:production-notes">Any special notes about the production of this ebook for future editors/producers? Remove this element if not.</meta>
+		<meta property="se:production-notes">I have added as endnotes a number of definitions/explanations of obscure words.</meta>
 		<meta property="se:word-count">WORDCOUNT</meta>
 		<meta property="se:reading-ease.flesch">READINGEASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Sibyl</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/benjamin-disraeli_sibyl</meta>
 		<dc:creator id="author">Benjamin Disraeli</dc:creator>
-		<meta property="file-as" refines="#author">AUTHORSORT</meta>
-		<meta property="se:name.person.full-name" refines="#author">AUTHORFULLNAME</meta>
+		<meta property="file-as" refines="#author">Disraeli, Benjamin</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Benjamin_Disraeli</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n78095587</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVERARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVERARTISTSORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVERARTISTWIKILINK</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVERARTISTNACOAFLINK</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">wpr</meta>
+		<dc:contributor id="artist">Thomas Faed</dc:contributor>
+		<meta property="file-as" refines="#artist">Faed, Thomas</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Thomas_Faed</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n88218515</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">David G. Johnson</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBERSORT</meta>
+		<meta property="file-as" refines="#transcriber-1">Johnson, David G.</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-2">David Widger</dc:contributor>
-		<meta property="file-as" refines="#transcriber-2">TRANSCRIBERSORT</meta>
+		<meta property="file-as" refines="#transcriber-2">Widger, David</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCERSORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">LINK</meta>
+		<dc:contributor id="producer-1">David Grigg</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Grigg, David</meta>
+		<meta property="se:url.homepage" refines="#producer-1">https://rightword.com.au/david.php</meta>
+		<meta property="role" refines="#producer-1" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
@@ -89,7 +96,9 @@
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
 		<item href="css/local.css" id="local.css" media-type="text/css"/>
+		<item href="images/cover.svg" id="cover.svg" media-type="image/svg+xml" properties="cover-image"/>
 		<item href="images/logo.svg" id="logo.svg" media-type="image/svg+xml"/>
+		<item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/>
 		<item href="text/book-1.xhtml" id="book-1.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/book-2.xhtml" id="book-2.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/book-3.xhtml" id="book-3.xhtml" media-type="application/xhtml+xml"/>
@@ -169,6 +178,7 @@
 		<item href="text/chapter-6-13.xhtml" id="chapter-6-13.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/dedication.xhtml" id="dedication.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/endnotes.xhtml" id="endnotes.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/halftitle.xhtml" id="halftitle.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/preface.xhtml" id="preface.xhtml" media-type="application/xhtml+xml"/>
@@ -215,8 +225,8 @@
 		<itemref idref="chapter-3-7.xhtml"/>
 		<itemref idref="chapter-3-8.xhtml"/>
 		<itemref idref="chapter-3-9.xhtml"/>
-		<itemref idref="book-4.xhtml"/>
 		<itemref idref="chapter-3-10.xhtml"/>
+		<itemref idref="book-4.xhtml"/>
 		<itemref idref="chapter-4-1.xhtml"/>
 		<itemref idref="chapter-4-2.xhtml"/>
 		<itemref idref="chapter-4-3.xhtml"/>
@@ -258,6 +268,7 @@
 		<itemref idref="chapter-6-11.xhtml"/>
 		<itemref idref="chapter-6-12.xhtml"/>
 		<itemref idref="chapter-6-13.xhtml"/>
+		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
 	</spine>
