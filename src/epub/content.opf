@@ -30,6 +30,12 @@
 		<link href="onix.xml" rel="onix-record"/>
 		<dc:title id="title">Sibyl</dc:title>
 		<meta property="file-as" refines="#title">Sibyl</meta>
+		<meta property="title-type" refines="#title">main</meta>
+		<dc:title id="subtitle">Or, The Two Nations</dc:title>
+		<meta property="file-as" refines="#subtitle">Two Nations, The, Or</meta>
+		<meta property="title-type" refines="#subtitle">subtitle</meta>
+		<dc:title id="fulltitle">Sibyl: Or, The Two Nations</dc:title>
+		<meta property="title-type" refines="#fulltitle">extended</meta>
 		<dc:subject id="subject-1">England -- Fiction</dc:subject>
 		<dc:subject id="subject-2">Love stories</dc:subject>
 		<dc:subject id="subject-3">Landlord and tenant -- Fiction</dc:subject>
