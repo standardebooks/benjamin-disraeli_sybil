@@ -16,6 +16,11 @@ section[epub|type~="halftitlepage"] span[epub|type~="subtitle"]{
 	font-variant: small-caps;
 }
 
+header{
+	text-align: center;
+	font-variant: small-caps;	
+}
+
 footer{
 	text-align: right;
 }
