@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
-		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/benjamin-disraeli/sibyl</dc:identifier>
+		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/benjamin-disraeli/sybil</dc:identifier>
 		<dc:date>2018-09-07T22:16:36Z</dc:date>
-		<meta property="dcterms:modified">2018-12-10T18:40:59Z</meta>
-		<meta property="se:revision-number">4</meta>
+		<meta property="dcterms:modified">2018-12-10T21:41:55Z</meta>
+		<meta property="se:revision-number">6</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -28,13 +28,13 @@
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
 		<link href="onix.xml" rel="onix-record"/>
-		<dc:title id="title">Sibyl</dc:title>
-		<meta property="file-as" refines="#title">Sibyl</meta>
+		<dc:title id="title">Sybil</dc:title>
+		<meta property="file-as" refines="#title">Sybil</meta>
 		<meta property="title-type" refines="#title">main</meta>
 		<dc:title id="subtitle">Or, the Two Nations</dc:title>
 		<meta property="file-as" refines="#subtitle">Or, the Two Nations</meta>
 		<meta property="title-type" refines="#subtitle">subtitle</meta>
-		<dc:title id="fulltitle">Sibyl, or the Two Nations</dc:title>
+		<dc:title id="fulltitle">Sybil, or the Two Nations</dc:title>
 		<meta property="title-type" refines="#fulltitle">extended</meta>
 		<dc:subject id="subject-1">England -- Fiction</dc:subject>
 		<dc:subject id="subject-2">Love stories</dc:subject>
@@ -58,7 +58,7 @@
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Benjamin Disraeli was a remarkable historical figure. Born into a Jewish family, he converted to Anglican Christianity as a child. He is now almost certainly most famous for his political career. Becoming a member of the British Parliament at the age of 33, he initially rose to prominence within the Conservative (“Tory”) party because of his clashes with the then Prime Minister Sir Robert Peel. Rising to lead the Conservative Party, Disraeli became Prime Minister for a short period in 1868, and then for an extended period between 1874 and 1880. He became friendly with Queen Victoria and was appointed Earl of Beaconsfield by her in 1876.&lt;/p&gt;
 			&lt;p&gt;However, Disraeli was much more than a politician. He wrote both political treatises and no less than seventeen novels during his lifetime, of which &lt;i&gt;Sybil, or The Two Nations&lt;/i&gt; is now among the best regarded. The “Two Nations” of the subtitle refer to the divisions in Britain between the rich and the poor, each of whom might as well be living in a different country from the other. In the novel, Disraeli highlights the terrible living conditions of the poor and the shocking injustices of how they were treated by most employers and land-owners. He contrasts this with the frivolous, pampered livestyles of the aristocracy. He covers the rise of the Chartist movement, which was demanding universal manhood suffrage—the right for all adult men to vote, regardless of whether they owned property—and other reforms to enable working men a voice in the government of the country. (Female suffrage was to come much later). The upheavals of the time led to the development of the People’s Charter and a massive petition with millions of signatures being presented to Parliament. However the Parliament of the time refused to even consider the petition, triggering violent protests in Birmingham and elsewhere. All of this is well covered and explained in the novel.&lt;/p&gt;
-			&lt;p&gt;&lt;i&gt;Sybil&lt;/i&gt; is rather disjointed in structure as it ranges over these different topics, but the main plot revolves around Egremont, the younger son of a nobleman, who encounters some of the leaders of the workers’ movement and in particular Walter Gerard, one of the most respected of these leaders, whom Egremont befriends while concealing his real name and social position. During visits to Gerard under an assumed name, Egremont falls for the beautiful and saintly Sybil, Gerard’s daughter, but she rejects him when his true identity is exposed. Sibyl subsequently undergoes many difficult trials as the people’s movement develops and comes into conflict with the authorities.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Sybil&lt;/i&gt; is rather disjointed in structure as it ranges over these different topics, but the main plot revolves around Egremont, the younger son of a nobleman, who encounters some of the leaders of the workers’ movement and in particular Walter Gerard, one of the most respected of these leaders, whom Egremont befriends while concealing his real name and social position. During visits to Gerard under an assumed name, Egremont falls for the beautiful and saintly Sybil, Gerard’s daughter, but she rejects him when his true identity is exposed. Sybil subsequently undergoes many difficult trials as the people’s movement develops and comes into conflict with the authorities.&lt;/p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
@@ -67,8 +67,8 @@
 		<meta property="se:production-notes">I have added as endnotes a number of definitions/explanations of obscure words whose meaning is not easily found on the Internet. My source was the Shorter Oxford Dictionary on Historical Principles (Third Edition).</meta>
 		<meta property="se:word-count">159009</meta>
 		<meta property="se:reading-ease.flesch">68.91</meta>
-		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Sibyl</meta>
-		<meta property="se:url.vcs.github">https://github.com/standardebooks/benjamin-disraeli_sibyl</meta>
+		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Sybil_(novel)</meta>
+		<meta property="se:url.vcs.github">https://github.com/standardebooks/benjamin-disraeli_sybil</meta>
 		<dc:creator id="author">Benjamin Disraeli</dc:creator>
 		<meta property="file-as" refines="#author">Disraeli, Benjamin</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Benjamin_Disraeli</meta>
