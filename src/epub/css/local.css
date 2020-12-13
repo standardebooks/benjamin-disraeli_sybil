@@ -11,12 +11,12 @@ b{
 }
 
 header{
-	text-align: center;
 	font-variant: small-caps;
-	margin-bottom: 0.5em;
+	margin-bottom: 1em;
+	text-align: center;
 }
 
 footer{
+	margin-top: 1em;
 	text-align: right;
-	margin-top: 0.5em;
 }
