@@ -60,6 +60,9 @@
 		<meta property="authority" refines="#subject-8">LCSH</meta>
 		<meta property="term" refines="#subject-8">Unknown</meta>
 		<meta property="se:subject">Fiction</meta>
+		<meta id="collection-1" property="belongs-to-collection">The Guardian’s best 100 novels in English (2015)</meta>
+		<meta property="collection-type" refines="#collection-1">set</meta>
+		<meta property="group-position" refines="#collection-1">11</meta>
 		<dc:description id="description">A young nobleman is moved by the condition of the poor in England, and falls in love with a labourer’s daughter.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/benjamin-disraeli"&gt;Benjamin Disraeli&lt;/a&gt; was a remarkable historical figure. Born into a Jewish family, he converted to Anglican Christianity as a child. He is now almost certainly most famous for his political career. Becoming a member of the British Parliament at the age of 33, he initially rose to prominence within the Conservative (“Tory”) party because of his clashes with the then Prime Minister Sir Robert Peel. Rising to lead the Conservative Party, Disraeli became Prime Minister for a short period in 1868, and then for an extended period between 1874 and 1880. He became friendly with Queen Victoria and was appointed Earl of Beaconsfield by her in 1876.&lt;/p&gt;
