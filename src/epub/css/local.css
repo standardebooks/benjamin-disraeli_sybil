@@ -2,8 +2,8 @@
 @namespace epub "http://www.idpf.org/2007/ops";
 
 b{
-	font-weight: normal;
 	font-variant: small-caps;
+	font-weight: normal;
 }
 
 [epub|type~="z3998:signature"]{
