@@ -73,8 +73,8 @@
 		<dc:source>https://www.gutenberg.org/ebooks/3760</dc:source>
 		<dc:source>https://books.google.com.au/books?id=r99FAAAAcAAJ</dc:source>
 		<meta property="se:production-notes">I have added as endnotes a number of definitions/explanations of obscure words whose meaning is not easily found on the Internet. My source was the Shorter Oxford Dictionary on Historical Principles (Third Edition).</meta>
-		<meta property="se:word-count">159008</meta>
-		<meta property="se:reading-ease.flesch">68.91</meta>
+		<meta property="se:word-count">159007</meta>
+		<meta property="se:reading-ease.flesch">68.81</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Sybil_(novel)</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/benjamin-disraeli_sybil</meta>
 		<dc:creator id="author">Benjamin Disraeli</dc:creator>
