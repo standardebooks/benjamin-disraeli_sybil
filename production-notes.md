@@ -1,0 +1,1 @@
+I have added as endnotes a number of definitions/explanations of obscure words whose meaning is not easily found on the Internet. My source was the Shorter Oxford Dictionary on Historical Principles (Third Edition).
