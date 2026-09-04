@@ -37,14 +37,14 @@
 		<dc:title id="fulltitle">Sybil, or the Two Nations</dc:title>
 		<meta property="file-as" refines="#fulltitle">Sybil</meta>
 		<meta property="title-type" refines="#fulltitle">expanded</meta>
-		<dc:subject id="subject-1">England -- Fiction</dc:subject>
+		<dc:subject id="subject-1">England--Fiction</dc:subject>
 		<dc:subject id="subject-2">Love stories</dc:subject>
-		<dc:subject id="subject-3">Landlord and tenant -- Fiction</dc:subject>
-		<dc:subject id="subject-4">Poor families -- Fiction</dc:subject>
+		<dc:subject id="subject-3">Landlord and tenant--Fiction</dc:subject>
+		<dc:subject id="subject-4">Poor families--Fiction</dc:subject>
 		<dc:subject id="subject-5">Political fiction</dc:subject>
-		<dc:subject id="subject-6">Rich people -- Fiction</dc:subject>
-		<dc:subject id="subject-7">Social classes -- Fiction</dc:subject>
-		<dc:subject id="subject-8">Chartism -- Fiction</dc:subject>
+		<dc:subject id="subject-6">Rich people--Fiction</dc:subject>
+		<dc:subject id="subject-7">Social classes--Fiction</dc:subject>
+		<dc:subject id="subject-8">Chartism--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">Unknown</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
